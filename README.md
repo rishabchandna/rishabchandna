@@ -9,6 +9,6 @@
 - 🤔 I’m looking for help with career in data science..
 - 💬 Ask me about 
 - 📫 How to reach me: https://www.linkedin.com/in/rishab-chandna/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: https://elgoog.im, It is the exact mirror of Google. Everything you search here will be written in the opposite.
 -->
