@@ -2,11 +2,10 @@
 
 
 
-
-- 🔭 I’m currently a Mangement Student at EDHEC Business School, France.
-- 🌱 I’m currently learning Pyhton, Machine Learning, Artificial Intelligence
-- 👯 I’m looking to collaborate with companies and individuals with growth mindset..
-- 🤔 I’m looking for help with making my career in data science..
+- 👯 I’m looking to collaborate with companies and individuals with growth mindset.
+- 🤔 I’m looking for help with making my career in data analytics.
+- 🌱 I’m currently upskilling in Pyhton, SQL, Tableau, Machine Learning. 
+- 🔭 I have completed my master's in Business Management from EDHEC Business School, France.
 - 💬 Ask me about anything...
 - 📫 How to reach me: https://www.linkedin.com/in/rishab-chandna/
 - 😄 Pronouns: He/Him
