@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate with companies and individuals with growth mindset.
 - 🤔 I’m looking for help with making my career in data analytics.
-- 🌱 I’m currently upskilling in Pyhton, SQL, Tableau, Machine Learning. 
+- 🌱 I’m currently upskilling in Pyhton, SQL, Tableau, PowerBI and Machine Learning. 
 - 🔭 I have completed my master's in Business Management from EDHEC Business School, France.
 - 💬 Ask me about anything...
 - 📫 How to reach me: https://www.linkedin.com/in/rishab-chandna/
